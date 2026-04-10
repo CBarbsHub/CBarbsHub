@@ -5,6 +5,6 @@ I’m expanding my skills in front-end design, hosting, and version control whil
 🌱 **Currently learning:** HTML, CSS, and web hosting with Netlify  
 💻 **Projects:** Personal portfolio and school assignments  
 🎯 **Goal:** Build a clean, user-friendly portfolio website that reflects my style and skills  
-📫 **Reach me at:** [your email or LinkedIn link here]
+📫 **Reach me at:** hello@charisbarbosa.com
 
 Thanks for visiting my profile!
